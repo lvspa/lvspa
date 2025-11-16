@@ -4,17 +4,22 @@ Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos, experi
 
 ## Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos que envolvem **Java**, **C/C++** e as vezes **Python**.
-- 💡 Interesso-me por **tecnologia open source**, **desenvolvimento a baixo nivel** e **cybersegunrança**.
-- 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, só chamar!
+- 🔭 Atualmente trabalhando em projetos que envolvem **Java** e **Python**, meus pequenos xodós.
+- 💡 Me interesso muito por banco da dados(teoria e prática), A.I, automação e desenvolvimento.
+- 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, afinal, aprender é muito bom, então é só chamar!
 
 ## Minhas Ferramentas Favoritas
 
-- **Linguagens**: Python 🐍 | Java ☕ | C/C++ 💻 | SQL 📊
-- **Frameworks**: Flask | Spring Boot | Django
-- **Ferramentas**: **Kali Linux** | **Linux** | Docker | VS Code
-- **Banco de dados**: MySQL | PostgreSQL
+- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
+---
+- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=react,flask,django)](https://skillicons.dev)
+---
+- **Banco de dados**: [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+---
 
 
-✨ Explore meus repositórios e fique à vontade para entrar em contato se quiser discutir ideias ou colaborar!  
-🙌 Sempre há algo novo para aprender e compartilhar!
+✨ Da uma olhada nos meus repositórios e fique à vontade para entrar em contato se quiser discutir ideias, colaborar ou criar algo legal!  
+
+
+
+
