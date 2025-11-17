@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Alexandre
+# 👋 Olá!
 
-Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos, experimentos e ideias que estou explorando na área de desenvolvimento.
+Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, experimentos e ideias que estou explorando na área de desenvolvimento.
 
 ## Sobre mim
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos, experi
 - 💡 Me interesso muito por banco da dados(teoria e prática), A.I, automação e desenvolvimento.
 - 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, afinal, aprender é muito bom, então é só chamar!
 
-## Minhas Ferramentas Favoritas
+## Algumas ferramentas que uso:
 
 - **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
 ---
