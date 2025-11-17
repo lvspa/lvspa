@@ -12,7 +12,7 @@ Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos, experi
 
 - **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
 ---
-- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=react,flask,django)](https://skillicons.dev)
+- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,react,flask,django)](https://skillicons.dev)
 ---
 - **Banco de dados**: [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ---
