@@ -5,14 +5,14 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, experimentos e id
 ## Sobre mim
 
 - 🔭 Atualmente trabalhando em projetos que envolvem **Java** e **Python**.
-- 💡 Me interesso muito por banco da dados(teoria e prática), A.I, automação e desenvolvimento.
+- 💡 Me interesso muito por computação cientifica, A.I, automação e desenvolvimento.
 - 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, afinal, aprender é muito bom, então é só chamar!
 
 ## Algumas ferramentas que uso:
 
 - **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
 ---
-- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,react,flask,django)](https://skillicons.dev)
+- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
 ---
 - **Banco de dados**: [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ---
