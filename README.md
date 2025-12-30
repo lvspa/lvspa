@@ -10,14 +10,11 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, experimentos e id
 
 ## Algumas ferramentas que uso:
 
-- **Linguagens**
- - [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
+- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
 ---
-- **Frameworks**
--  [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
 ---
-- **Banco de dados**
-  - [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+- **Banco de dados**: [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ---
 
 
