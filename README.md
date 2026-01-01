@@ -4,7 +4,7 @@ Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, experimentos e id
 
 ## Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos que envolvem **Java** e **Python**.
+- 🔭 Atualmente trabalhando em projetos que envolvem **Java** e **Python**, um pouco mais python 🐍.
 - 💡 Me interesso muito por computação cientifica, A.I, automação e desenvolvimento.
 - 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, afinal, aprender é muito bom, então é só chamar!
 
