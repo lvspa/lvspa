@@ -1,25 +1,44 @@
-# 👋 Olá!
+# 👋 Olá, eu sou Alexandre :)
 
-Bem-vindo ao meu GitHub! 🚀 Aqui você encontrará projetos, experimentos e ideias que estou explorando na área de desenvolvimento.
+Bem-vindo ao meu GitHub!  
+Aqui você vai encontrar projetos, experimentos e algumas ideias que estou explorando no momento.
 
-## Sobre mim
-
-- 🔭 Atualmente trabalhando em projetos que envolvem **Java** e **Python**, um pouco mais python 🐍.
-- 💡 Me interesso muito por computação cientifica, A.I, automação e desenvolvimento.
-- 🤝 Estou aberto a colaborar em projetos relacionados aos meus interesses ou não, afinal, aprender é muito bom, então é só chamar!
-
-## Algumas ferramentas que uso:
-
-- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
----
-- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=react,django,flask,spring)](https://skillicons.dev)
----
-- **Banco de dados**: [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 ---
 
+## 🚀 Sobre mim
 
-✨ Da uma olhada nos meus repositórios e fique à vontade para entrar em contato se quiser discutir ideias, colaborar ou criar algo legal!  
+- 💻 Desenvolvendo principalmente com **Java** e **Python**, com algumas incursões em **C#**
+- 🌐 Interesse em **redes, automação e desenvolvimento de software**
+- 🤝 Sempre aberto a colaborar — seja em projetos sérios ou só pela experiência de aprender algo novo
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💡 Linguagens
+[![Linguagens](https://skillicons.dev/icons?i=py,java,js,cs)](https://skillicons.dev)
+
+### ⚙️ Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,django,spring)](https://skillicons.dev)
+
+### 🗄️ Banco de Dados
+[![Banco de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
 
+## 📊 Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contato
+
+Se quiser trocar ideia, colaborar ou só bater um papo sobre tecnologia:
+
+👉 Fique à vontade para abrir uma issue ou me chamar!
+
+---
+
+## ✨ Obrigado pela visita!
