@@ -7,7 +7,7 @@ Aqui você vai encontrar projetos, experimentos e algumas ideias que estou explo
 
 ##  Sobre mim
 
--  Desenvolvendo principalmente com **Java** e **Python**, com algumas incursões em **C#**
+-  Desenvolvendo principalmente com **Java** e **Python**, com algumas incursões em **C#** e **PHP**
 -  Interesse em **redes, automação e desenvolvimento de software**
 
 
