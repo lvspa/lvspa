@@ -19,7 +19,7 @@ Aqui você vai encontrar projetos, experimentos e algumas ideias que estou explo
 [![Linguagens](https://skillicons.dev/icons?i=py,java,js,cs,php)](https://skillicons.dev)
 
 ###  Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,django,spring)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,django,spring,laravel)](https://skillicons.dev)
 
 ###  Banco de Dados
 [![Banco de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
