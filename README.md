@@ -16,7 +16,7 @@ Aqui você vai encontrar projetos, experimentos e algumas ideias que estou explo
 ##  Tecnologias e Ferramentas
 
 ###  Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=py,java,js,cs)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=py,java,js,cs,php)](https://skillicons.dev)
 
 ###  Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=react,django,spring)](https://skillicons.dev)
