@@ -1,6 +1,6 @@
 <div align="center">
 
-# System.out.pŕintln("Olá estranho !");
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=System.out.println(%22Ol%C3%A1%2C+estranho!%22);;Sou+o+Alexandre+:))" alt="Typing SVG" />
 
 **Backend Developer | Networking Enthusiast | Open Source Contributor**
 
@@ -9,7 +9,7 @@
 
 ---
 
-### Tech Stack & Toolbox
+###  Tech Stack & Toolbox
 
 `Java` • `Python` • `C#` • `PHP` • `Networking` • `Automation`
 
@@ -21,12 +21,12 @@
 
 ---
 
-### 📖 No que estou trabalhando
+###  No que estou trabalhando
 
 Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no ecossistema **Open Source**. Acredito que o código aberto é a melhor forma de evoluir a tecnologia e colaborar com a comunidade.
 
 
-### My Activity
+###  My Activity
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
@@ -34,4 +34,3 @@ Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no 
 </div>
 
 ---
-
