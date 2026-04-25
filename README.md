@@ -1,42 +1,40 @@
-# 👋 Olá, eu sou Alexandre :))
+<div align="center">
 
-Bem-vindo ao meu GitHub!  
-Aqui você vai encontrar projetos, experimentos e algumas ideias que estou explorando no momento.
+# Alexandre
 
----
+**Backend Developer | Networking Enthusiast | Open Source Contributor**
 
-##  Sobre mim
-
--  Desenvolvendo principalmente com **Java** e **Python**, com algumas incursões em **C#** e **PHP**
--  Interesse em **redes, automação e desenvolvimento de software**
-
+[![GitHub followers](https://img.shields.io/github/followers/lvspa?style=flat-square&logo=github&color=555)](https://github.com/lvspa)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ---
 
-##  Tecnologias e Ferramentas
+### Tech Stack & Toolbox
 
-###  Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=py,java,js,cs,php)](https://skillicons.dev)
+`Java` • `Python` • `C#` • `PHP` • `Networking` • `Automation`
 
-###  Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,django,spring,laravel)](https://skillicons.dev)
+<br>
 
-###  Banco de Dados
-[![Banco de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,py,cs,php,postgres,mysql,spring,django,react&theme=dark" />
 
-
-##  Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
+### 📖 No que estou trabalhando
+
+Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no ecossistema **Open Source**. Acredito que o código aberto é a melhor forma de evoluir a tecnologia e colaborar com a comunidade.
 
 
-Se quiser trocar ideia,fique à vontade para abrir uma issue ou me chamar! :)
+###My Activity
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-
+<div align="center">
+  <sub>Built with ❤️ and a lot of Open Source code.</sub>
+</div>
