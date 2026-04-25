@@ -26,7 +26,7 @@
 Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no ecossistema **Open Source**. Acredito que o código aberto é a melhor forma de evoluir a tecnologia e colaborar com a comunidade.
 
 
-###My Activity
+### My Activity
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
@@ -35,6 +35,3 @@ Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no 
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ and a lot of Open Source code.</sub>
-</div>
