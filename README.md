@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alexandre
+# Alexandre Vitor
 
 **Backend Developer | Networking Enthusiast | Open Source Contributor**
 
