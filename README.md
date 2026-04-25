@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=System.out.println(%22Ol%C3%A1%2C+estranho!%22);;Sou+o+Alexandre+:))" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=print(%22Ol%C3%A1%2C+estranho!%22);;Sou+o+Alexandre+:))" alt="Typing SVG" />
 
 **Backend Developer | Networking Enthusiast | Open Source Contributor**
 
