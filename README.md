@@ -21,9 +21,12 @@
 
 ---
 
-###  No que estou trabalhando
+### Atualmente desenvolvendo dois projetos principais:
 
-Atualmente focado em automatizar fluxos de redes e expandir meu conhecimento no ecossistema **Open Source**. Acredito que o código aberto é a melhor forma de evoluir a tecnologia e colaborar com a comunidade.
+Juntai — uma plataforma para conectar jogadores e formar equipes de forma simples, focada em matchmaking social e organização de partidas.
+Saras — uma engine/biblioteca para leitura e gerenciamento de HQs (CBZ/CBR/PDF), voltada para aplicações desktop e mobile (Kotlin), com foco em performance e manipulação eficiente de arquivos.
+
+Também exploro automação de redes e ferramentas backend, sempre com foco em soluções open source e escaláveis.
 
 
 ###  My Activity
