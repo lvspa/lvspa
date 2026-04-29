@@ -38,4 +38,4 @@ Também exploro automação de redes e ferramentas backend, sempre com foco em s
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+
