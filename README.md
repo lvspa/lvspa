@@ -29,3 +29,10 @@ Saras — uma engine/biblioteca para leitura e gerenciamento de HQs (CBZ/CBR/PDF
 Link: https://github.com/lvspa/saras
 
 Também exploro automação de redes e ferramentas backend, sempre com foco em soluções open source e escaláveis.
+
+###  My Activity
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
