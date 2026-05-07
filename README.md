@@ -51,20 +51,7 @@ I'm a passionate developer focused on building scalable backend solutions, explo
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" alt="Alexandre's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+<div align="center"> <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="155em" src="https://github-readme-streak-stats.herokuapp.com?user=lvspa&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
