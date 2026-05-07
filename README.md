@@ -12,29 +12,29 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer focused on building scalable backend solutions, exploring network automation, and contributing to the open-source community. I thrive on turning complex problems into elegant, efficient code.
 
-- 🔭 **Currently building:** **Juntai** (Social matchmaking for gamers) & **[Saras](https://github.com/lvspa/saras)** (High-performance comic reading engine).
-- 💡 **Interests:** Backend architecture, Network Automation, API design, and Open Source.
-- 💬 **Ask me about:** `Java`, `Python`, `C#`, and system integrations.
+- **Currently building:** **Juntai** (Social matchmaking for gamers) & **[Saras](https://github.com/lvspa/saras)** (High-performance comic reading engine).
+-  **Interests:** Backend architecture, Network Automation, API design, and Open Source.
+-  **Ask me about:** `Java`, `Python`, `C#`, and system integrations.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎮 Juntai
+###  Juntai
 > **A platform designed to connect gamers and build teams effortlessly.**
 > Focuses on social matchmaking and match organization, bringing people together through seamless backend integrations.
 
-### 📚 [Saras](https://github.com/lvspa/saras)
+###  [Saras](https://github.com/lvspa/saras)
 > **High-performance engine/library for parsing and managing comic books (CBZ/CBR/PDF).**
 > Built for desktop and mobile (Kotlin) applications, emphasizing memory efficiency and fast file manipulation.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages & Frameworks:**<br>
 `Java` • `Python` • `C#` • `PHP` • `Kotlin` • `Spring` • `Django` • `React`
