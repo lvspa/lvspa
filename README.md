@@ -1,38 +1,70 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Alexandre 👋</h1>
+<h3 align="center">Backend Developer | Networking Enthusiast | Open Source Contributor</h3>
 
-# Alexandre
-
-**Backend Developer | Networking Enthusiast | Open Source Contributor**
-
-[![GitHub followers](https://img.shields.io/github/followers/lvspa?style=flat-square&logo=github&color=555)](https://github.com/lvspa)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p align="center">
+  <a href="https://github.com/lvspa">
+    <img src="https://img.shields.io/github/followers/lvspa?style=for-the-badge&logo=github&color=24292e" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge" alt="Open Source Love" />
+  </a>
+</p>
 
 ---
 
-###  Tech Stack & Toolbox
+## 👨‍💻 About Me
 
-`Java` • `Python` • `C#` • `PHP` • `Networking` • `Automation`
+I'm a passionate developer focused on building scalable backend solutions, exploring network automation, and contributing to the open-source community. I thrive on turning complex problems into elegant, efficient code.
+
+- 🔭 **Currently building:** **Juntai** (Social matchmaking for gamers) & **[Saras](https://github.com/lvspa/saras)** (High-performance comic reading engine).
+- 💡 **Interests:** Backend architecture, Network Automation, API design, and Open Source.
+- 💬 **Ask me about:** `Java`, `Python`, `C#`, and system integrations.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Juntai
+> **A platform designed to connect gamers and build teams effortlessly.**
+> Focuses on social matchmaking and match organization, bringing people together through seamless backend integrations.
+
+### 📚 [Saras](https://github.com/lvspa/saras)
+> **High-performance engine/library for parsing and managing comic books (CBZ/CBR/PDF).**
+> Built for desktop and mobile (Kotlin) applications, emphasizing memory efficiency and fast file manipulation.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**<br>
+`Java` • `Python` • `C#` • `PHP` • `Kotlin` • `Spring` • `Django` • `React`
+
+**Databases & Concepts:**<br>
+`PostgreSQL` • `MySQL` • `Networking` • `Automation`
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=java,py,cs,php,postgres,mysql,spring,django,react&theme=dark" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,cs,php,postgres,mysql,spring,django,react&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-### Atualmente desenvolvendo dois projetos principais:
-
-Juntai — uma plataforma para conectar jogadores e formar equipes de forma simples, focada em matchmaking social e organização de partidas.
-
-Saras — uma engine/biblioteca para leitura e gerenciamento de HQs (CBZ/CBR/PDF), voltada para aplicações desktop e mobile (Kotlin), com foco em performance e manipulação eficiente de arquivos.
-Link: https://github.com/lvspa/saras
-
-Também exploro automação de redes e ferramentas backend, sempre com foco em soluções open source e escaláveis.
-
-###  My Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvspa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" alt="Alexandre's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvspa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
