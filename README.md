@@ -26,7 +26,7 @@ I'm a passionate developer focused on building scalable backend solutions, explo
 
 ###  Juntai
 > **A platform designed to connect gamers and build teams effortlessly.**
-> Focuses on social matchmaking and match organization, bringing people together through seamless backend integrations.
+> Focuses on social matchmaking and match organization, bringing people together through seamless backend integrations..
 
 ###  [Saras](https://github.com/lvspa/saras)
 > **High-performance engine/library for parsing and managing comic books (CBZ/CBR/PDF).**
