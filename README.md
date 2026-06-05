@@ -1,15 +1,6 @@
 <h1 align="center">Hi there, I'm Alexandre ! </h1>
 <h3 align="center">Backend Developer | Networking Enthusiast | Open Source Contributor</h3>
 
-<p align="center">
-  <a href="https://github.com/lvspa">
-    <img src="https://img.shields.io/github/followers/lvspa?style=for-the-badge&logo=github&color=24292e" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/ellerbrock/open-source-badges/">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge" alt="Open Source Love" />
-  </a>
-</p>
-
 ---
 
 ## About Me
